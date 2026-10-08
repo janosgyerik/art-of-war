@@ -1,4 +1,4 @@
-# Chapter I. LAYING PLANS
+# Chapter I. Laying Plans
 
 Sun Tzŭ said: The art of war is of vital importance to the State.
 
@@ -104,7 +104,7 @@ victory, and few calculations to defeat: how much more no calculation
 at all! It is by attention to this point that I can foresee who is
 likely to win or lose.
 
-# Chapter II. WAGING WAR
+# Chapter II. Waging War
 
 Sun Tzŭ said: In the operations of war, where there are in the field
 a thousand swift chariots, as many heavy chariots, and a hundred
@@ -182,7 +182,7 @@ Thus it may be known that the leader of armies is the arbiter of the
 people’s fate, the man on whom it depends whether the nation shall be
 in peace or in peril.
 
-# Chapter III. ATTACK BY STRATAGEM
+# Chapter III. Attack By Stratagem
 
 Sun Tzŭ said: In the practical art of war, the best thing of all is to
 take the enemy’s country whole and intact; to shatter and destroy it
@@ -274,7 +274,7 @@ the enemy, for every victory gained you will also suffer a defeat.  If
 you know neither the enemy nor yourself, you will succumb in every
 battle.
 
-# Chapter IV. TACTICAL DISPOSITIONS
+# Chapter IV. Tactical Dispositions
 
 Sun Tzŭ said: The good fighters of old first put themselves beyond the
 possibility of defeat, and then waited for an opportunity of defeating
@@ -347,7 +347,7 @@ The onrush of a conquering force is like the bursting of pent-up
 waters into a chasm a thousand fathoms deep. So much for tactical
 dispositions.
 
-# Chapter V. ENERGY
+# Chapter V. Energy
 
 Sun Tzŭ said: The control of a large force is the same principle as
 the control of a few men: it is merely a question of dividing up their
@@ -436,7 +436,7 @@ Thus the energy developed by good fighting men is as the momentum of
 a round stone rolled down a mountain thousands of feet in height. So
 much on the subject of energy.
 
-# Chapter VI. WEAK POINTS AND STRONG
+# Chapter VI. Weak Points And Strong
 
 Sun Tzŭ said: Whoever is first in the field and awaits the coming of
 the enemy, will be fresh for the fight; whoever is second in the field
@@ -570,7 +570,7 @@ equally predominant; the four seasons make way for each other in turn.
 There are short days and long; the moon has its periods of waning and
 waxing.
 
-# Chapter VII. MANŒUVERING
+# Chapter VII. Manœuvering
 
 Sun Tzŭ said: In war, the general receives his commands from the
 sovereign.
@@ -700,7 +700,7 @@ a desperate foe too hard.
 
 Such is the art of warfare.
 
-# Chapter VIII. VARIATION OF TACTICS
+# Chapter VIII. Variation Of Tactics
 
 Sun Tzŭ said: In war, the general receives his commands from the
 sovereign, collects his army and concentrates his forces.
@@ -770,7 +770,7 @@ When an army is overthrown and its leader slain, the cause will surely
 be found among these five dangerous faults. Let them be a subject of
 meditation.
 
-# Chapter IX. THE ARMY ON THE MARCH
+# Chapter IX. The Army On The March
 
 Sun Tzŭ said: We come now to the question of encamping the army, and
 observing signs of the enemy. Pass quickly over mountains, and keep in
@@ -932,7 +932,7 @@ will be well-disciplined; if not, its discipline will be bad.
 If a general shows confidence in his men but always insists on his
 orders being obeyed, the gain will be mutual.
 
-# Chapter X. TERRAIN
+# Chapter X. Terrain
 
 Sun Tzŭ said: We may distinguish six kinds of terrain, to wit:
 
@@ -1080,7 +1080,7 @@ Hence the saying: If you know the enemy and know yourself, your
 victory will not stand in doubt; if you know Heaven and know Earth,
 you may make your victory complete.
 
-# Chapter XI. THE NINE SITUATIONS
+# Chapter XI. The Nine Situations
 
 Sun Tzŭ said: The art of war recognises nine varieties of ground:
 
@@ -1350,7 +1350,7 @@ At first, then, exhibit the coyness of a maiden, until the enemy gives
 you an opening; afterwards emulate the rapidity of a running hare, and
 it will be too late for the enemy to oppose you.
 
-# Chapter XII. THE ATTACK BY FIRE
+# Chapter XII. The Attack By Fire
 
 Sun Tzŭ said: There are five ways of attacking with fire. The first is
 to burn soldiers in their camp; the second is to burn stores; the
@@ -1424,7 +1424,7 @@ Hence the enlightened ruler is heedful, and the good general full of
 caution. This is the way to keep a country at peace and an army
 intact.
 
-# Chapter XIII. THE USE OF SPIES
+# Chapter XIII. The Use Of Spies
 
 Sun Tzŭ said: Raising a host of a hundred thousand men and marching
 them great distances entails heavy loss on the people and a drain on
