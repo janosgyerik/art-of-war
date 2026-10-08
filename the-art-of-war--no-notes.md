@@ -752,13 +752,7 @@ There are five dangerous faults which may affect a general:
 
 3. a hasty temper, which can be provoked by insults;
 
-4. a delicacy of honour which is sensitive to shame; This need not be
-   taken to mean that a sense of honour is really a defect in
-   a general. What Sun Tzŭ condemns is rather an exaggerated
-   sensitiveness to slanderous reports, the thin-skinned man who is
-   stung by opprobrium, however undeserved. Mei Yao-ch’en truly
-   observes, though somewhat paradoxically: "The seeker after glory
-   should be careless of public opinion."]
+4. a delicacy of honour which is sensitive to shame;
 
 5. over-solicitude for his men, which exposes him to worry and
    trouble.
@@ -820,10 +814,9 @@ to ford is swollen and flecked with foam, you must wait until it
 subsides.
 
 Country in which there are precipitous cliffs with torrents running
-between, deep natural hollows, The latter defined as "places enclosed
-on every side by steep banks, with pools of water at the bottom."]
-confined places, tangled thickets, quagmires and crevasses, should be
-left with all possible speed and not approached.
+between, deep natural hollows, confined places, tangled thickets,
+quagmires and crevasses, should be left with all possible speed and
+not approached.
 
 While we keep away from such places, we should get the enemy to
 approach them; while we face them, we should let the enemy have them
