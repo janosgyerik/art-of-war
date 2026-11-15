@@ -1,6 +1,6 @@
 # Sun Tzu: The Art of War
 
-## Table of Contents
+# Table of Contents
 
 - [Chapter I. Laying Plans](#chapter-i-laying-plans-1)
 - [Chapter II. Waging War](#chapter-ii-waging-war-19)
@@ -17,7 +17,8 @@
 - [Chapter XIII. The Use of Spies](#chapter-xiii-the-use-of-spies)
 - [Footnotes](#footnotes)
 
-## Chapter I. Laying Plans [^1]
+
+# Chapter I. Laying Plans [^1]
 
 Sun Tzŭ said: The art of war is of vital importance to the State.
 
@@ -123,7 +124,7 @@ Thus do many calculations lead to victory, and few calculations to
 defeat: how much more no calculation at all! It is by attention to
 this point that I can foresee who is likely to win or lose.
 
-## Chapter II. Waging War [^19]
+# Chapter II. Waging War [^19]
 
 Sun Tzŭ said: In the operations of war, where there are in the field a
 thousand swift chariots, as many heavy chariots, and a hundred
@@ -203,7 +204,7 @@ Thus it may be known that the leader of armies is the arbiter of the
 people’s fate, the man on whom it depends whether the nation shall be
 in peace or in peril.
 
-## Chapter III. Attack by Stratagem
+# Chapter III. Attack by Stratagem
 
 Sun Tzŭ said: In the practical art of war, the best thing of all is to
 take the enemy’s country whole and intact; to shatter and destroy it
@@ -303,7 +304,7 @@ defeat. [^57]
 If you know neither the enemy nor yourself, you will succumb in every
 battle. [^58]
 
-## Chapter IV. Tactical Dispositions [^59]
+# Chapter IV. Tactical Dispositions [^59]
 
 Sun Tzŭ said: The good fighters of old first put themselves beyond the
 possibility of defeat, and then waited for an opportunity of defeating
@@ -379,7 +380,7 @@ The onrush of a conquering force is like the bursting of pent-up
 waters into a chasm a thousand fathoms deep. So much for tactical
 dispositions.
 
-## Chapter V. Energy
+# Chapter V. Energy
 
 Sun Tzŭ said: The control of a large force is the same principle as
 the control of a few men: it is merely a question of dividing up their
@@ -472,7 +473,7 @@ Thus the energy developed by good fighting men is as the momentum of a
 round stone rolled down a mountain thousands of feet in height. So
 much on the subject of energy. [^91]
 
-## Chapter VI. Weak Points and Strong [^92]
+# Chapter VI. Weak Points and Strong [^92]
 
 Sun Tzŭ said: Whoever is first in the field and awaits the coming of
 the enemy, will be fresh for the fight; whoever is second in the field
@@ -614,7 +615,7 @@ in turn. [^117]
 There are short days and long; the moon has its periods of waning and
 waxing. [^118]
 
-## Chapter VII. Manœuvering
+# Chapter VII. Manœuvering
 
 Sun Tzŭ said: In war, the general receives his commands from the
 sovereign.
@@ -755,7 +756,7 @@ Do not press a desperate foe too hard. [^151]
 
 Such is the art of warfare.
 
-## Chapter VIII. Variation of Tactics [^152]
+# Chapter VIII. Variation of Tactics [^152]
 
 Sun Tzŭ said: In war, the general receives his commands from the
 sovereign, collects his army and concentrates his forces.
@@ -823,7 +824,7 @@ When an army is overthrown and its leader slain, the cause will surely
 be found among these five dangerous faults. Let them be a subject of
 meditation.
 
-## Chapter IX. The Army on the March
+# Chapter IX. The Army on the March
 
 Sun Tzŭ said: We come now to the question of encamping the army, and
 observing signs of the enemy. Pass quickly over mountains, and keep in
@@ -1004,7 +1005,7 @@ will be well-disciplined; if not, its discipline will be bad.
 If a general shows confidence in his men but always insists on his
 orders being obeyed [^218], the gain will be mutual. [^219]
 
-## Chapter X. Terrain [^220]
+# Chapter X. Terrain [^220]
 
 Sun Tzŭ said: We may distinguish six kinds of terrain, to wit:
 
@@ -1150,7 +1151,7 @@ Hence the saying: If you know the enemy and know yourself, your
 victory will not stand in doubt; if you know Heaven and know Earth,
 you may make your victory complete. [^247]
 
-## Chapter XI. The Nine Situations
+# Chapter XI. The Nine Situations
 
 Sun Tzŭ said: The art of war recognises nine varieties of ground:
 
@@ -1440,7 +1441,7 @@ At first, then, exhibit the coyness of a maiden, until the enemy gives
 you an opening; afterwards emulate the rapidity of a running hare, and
 it will be too late for the enemy to oppose you. [^322]
 
-## Chapter XII. The Attack by Fire [^323]
+# Chapter XII. The Attack by Fire [^323]
 
 Sun Tzŭ said: There are five ways of attacking with fire. The first is
 to burn soldiers in their camp [^324]; the second is to burn
@@ -1522,7 +1523,7 @@ Hence the enlightened ruler is heedful, and the good general full of
 caution. This is the way to keep a country at peace and an army
 intact.
 
-## Chapter XIII. The Use of Spies
+# Chapter XIII. The Use of Spies
 
 Sun Tzŭ said: Raising a host of a hundred thousand men and marching
 them great distances entails heavy loss on the people and a drain on
@@ -1641,7 +1642,7 @@ thereby they achieve great results. [^373]
 Spies are a most important element in war, because on them depends an
 army’s ability to move. [^374]
 
-## Footnotes
+# Footnotes
 
 [^1]: Ts’ao Kung, in defining the meaning of the Chinese for the
 title of this chapter, says it refers to the deliberations in the

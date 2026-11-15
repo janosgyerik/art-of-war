@@ -1,0 +1,21 @@
+body {
+  font-family: serif;
+  line-height: 1.4;
+  text-align: justify;
+}
+h1, h2, h3 {
+  text-align: center;
+  page-break-after: avoid;
+  font-weight: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin-top: 2em;
+}
+p {
+  text-indent: 1.5em;
+  margin-top: 0;
+  margin-bottom: 0.5em;
+}
+p.first {
+  text-indent: 0;
+}
